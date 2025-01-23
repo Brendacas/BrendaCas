@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="300px" align="right">
 
 <p align="left"> 
-No momento, sou estudante do 6º Semestre na Universidade Estadual de Santa Cruz, onde sou bolsista de extensão do projeto - Indica(Indice de Atividade Econômica da Bahia), onde trabalho com banco de dados e desenvolvimento web, incluindo o uso da linguagem PHP, Framework Laravel versão 8x, CSS3 e Javascript. Bem como desenvolvendo um dashboard de consultas na ferramente Microsoft PowerBI. Além disso, estou constantemente aprimorando minhas habilidades em Python, C#, Html/css, e aprendendo novas técnicas para melhorar minhas capacidades profissionais.
+No momento, sou estudante do 7º Semestre na Universidade Estadual de Santa Cruz, onde sou bolsista de extensão do projeto - Indica(Indice de Atividade Econômica da Bahia), onde trabalho com banco de dados e desenvolvimento web, incluindo o uso da linguagem PHP, Framework Laravel versão 8x, CSS3 e Javascript. Bem como desenvolvendo um dashboard de consultas na ferramente Microsoft PowerBI. Além disso, estou constantemente aprimorando minhas habilidades em Python, C#, Html/css, e aprendendo novas técnicas para melhorar minhas capacidades profissionais.
 </p>
 
 📊Habilidade em PowerBI e análise de dados 
