@@ -2,10 +2,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="300px" align="right">
 
 <p align="left"> 
-No momento, sou estudante do 7º Semestre na Universidade Estadual de Santa Cruz, onde sou bolsista de extensão do projeto - Indica(Indice de Atividade Econômica da Bahia), onde trabalho com banco de dados e desenvolvimento web, incluindo o uso da linguagem PHP, Framework Laravel versão 8x, CSS3 e Javascript. Bem como desenvolvendo um dashboard de consultas na ferramente Microsoft PowerBI. Além disso, estou constantemente aprimorando minhas habilidades em Python, C#, Html/css, e aprendendo novas técnicas para melhorar minhas capacidades profissionais.
+Sou graduada em Ciência da Computação pela Universidade Estadual de Santa Cruz (UESC), onde atuei como bolsista de extensão no projeto Indica (Índice de Atividade Econômica da Bahia) por 2 anos e 6 meses. Durante essa experiência, trabalhei com banco de dados, desenvolvimento web utilizando PHP, o framework Laravel, CSS3 e JavaScript, além de atuar na construção de dashboards interativos com Microsoft Power BI, contribuindo para a análise e visualização de dados estratégicos e automações de dados em Python.
+
+Atualmente, atuo no desenvolvimento de uma plataforma de georreferenciamento vinculada ao projeto Plano Municipal de Redução de Riscos. O principal objetivo é desenvolver uma solução em formato WebGIS capaz de centralizar, organizar e facilitar a visualização de dados geológicos, hidrológicos e orçamentários, permitindo acesso rápido, integrado e mais eficiente a informações que antes se encontravam dispersas em múltiplos relatórios extensos.
+
+Além disso, sigo em constante evolução profissional, aprimorando minhas habilidades em Python, C#, HTML/CSS e explorando novas tecnologias e metodologias para desenvolver soluções cada vez mais completas e eficientes.
 </p>
 
-📊Habilidade em PowerBI e análise de dados 
+📊Habilidade em PowerBI, análise de dados e Python.
 
 ## 🚀 Minhas Skills
 
